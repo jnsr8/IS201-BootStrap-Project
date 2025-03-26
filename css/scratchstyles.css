@@ -1,0 +1,95 @@
+header {
+    left: 10px;
+    right: 10px;
+    height: 100;
+    font-size: large;
+    font-family: Trebuchet MS;
+    color: white;  
+    position: fixed;
+}
+
+.mainbody{
+    top:200;
+    left:10px;
+    right: 10px;
+    bottom: 10px;
+    display: block
+
+}
+.favoritelinks{
+    padding-top: calc(.5px);
+}
+body{
+    font-size: 15px;
+    font-family:gill sans, gill sans MT;
+    color: #c45591;
+    background-image: url(../assets/img/BlackRoom.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    size: auto;
+    position: justify;
+}
+.
+.common{
+    border: 4px solid #c45591;
+    position: fixed;
+
+
+}
+a{
+    color: whitesmoke;
+    
+}
+a:hover{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, ;
+    color: #ec97a6; 
+    
+}
+p {
+    font-size: larger;
+    font-family: Trebuchet MS;   
+}
+li{
+    text-align: right;
+    color: white;
+   
+}
+
+h1,h3 {
+    color: whitesmoke;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+h3{color: whitesmoke;
+font-size: x-large}
+
+
+
+.footer{
+    bottom:5px;
+    left: 1px;
+    right: 1px;
+    height: auto;
+    font-size: 9px
+    color black;
+    padding-top: 15px       
+}
+
+img {
+  display: block;
+  margin: auto;
+    
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+title {
+    font-family: 'segoe ui'; 
+    
+}
